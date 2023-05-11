@@ -53,7 +53,7 @@ import poligonoQualquer as pl
 # reta = rt.bresenham_line(-5, -5, -1, -5)
 # print(reta)
 # ap.desenhar_linha_entre_pontos(reta)
-
+#
 # #-----------------------------------------------
 # #Exemplo de quadrado
 # quadrado = qd.desenhaQuadrilatero(1, 2, 1, 6, 6, 6, 6, 2)
@@ -85,9 +85,9 @@ poligono = pl.poligonoQualquer(5, 0,-7, 5,-3, 3,4, -3,4, -5,-3)
 print(poligono)
 ap.desenhar_linha_entre_pontos(poligono)
 
-poligono = pl.poligonoQualquer(5, 0,-3, 2,-1, 3,2, 0,4, -3,2)
-print(poligono)
-ap.desenhar_linha_entre_pontos(poligono)
+# poligono = pl.poligonoQualquer(5, 0,-3, 2,-1, 3,2, 0,4, -3,2)
+# print(poligono)
+# ap.desenhar_linha_entre_pontos(poligono)
 
 
 
